@@ -1,0 +1,20 @@
+#contact {
+  background-color: #00060b; /* bg-blue-600 */
+  color: white;
+  padding-top: 1.5rem; /* py-6 */
+  padding-bottom: 1.5rem; /* py-6 */
+}
+
+#contact .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#contact a {
+  text-decoration: underline;
+}
+
+#contact p {
+  margin: 0.5rem 0;
+}
